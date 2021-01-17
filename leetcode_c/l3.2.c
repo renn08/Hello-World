@@ -1,3 +1,5 @@
+/*理解错题意解成了没有连续重复的最长字符串*/
+/*正确见l3.3.c and l3.4.c*/
 #include <stdio.h>
 #include <string.h>
 
@@ -16,7 +18,7 @@ int lengthOfLongestSubstring(char *s)
             if (m == j - 1)
                 *p = j - k + 1; //直到选中数组中最后一个验证也不重复确实是所求不重复字符串, 右指针移动左指针不移动
                 p++;
-                // if (j == strlen(s) - 1) p--;
+            // if (j == strlen(s) - 1) p--;
             // else{
             //     *p = j - k + 1;
             //     p++;
