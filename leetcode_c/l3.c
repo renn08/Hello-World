@@ -1,3 +1,5 @@
+/*理解错题意解成了没有连续重复的最长字符串*/
+/*正确见l3.3.c and l3.4.c*/
 #include <stdio.h>
 #include <string.h>
 
