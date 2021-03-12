@@ -4,6 +4,14 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**"
+                // "C:/Coding/CS106/Library/collections",
+                // "C:/Coding/CS106/Library/console",
+                // "C:/Coding/CS106/Library/graphics",
+                // "C:/Coding/CS106/Library/io",
+                // "C:/Coding/CS106/Library/private",
+                // "C:/Coding/CS106/Library/resources",
+                // "C:/Coding/CS106/Library/system",
+                //"C:/Coding/CS106"
             ],
             "defines": [
                 "_DEBUG",
@@ -13,7 +21,7 @@
             "compilerPath": "C:\\MINGW\\mingw32\\bin\\gcc.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
-            "intelliSenseMode": "clang-x64"
+            "intelliSenseMode": "gcc-x86"
         }
     ],
     "version": 4
