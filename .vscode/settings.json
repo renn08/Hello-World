@@ -3,7 +3,9 @@
         "stdio.h": "c",
         "ctype.h": "c",
         "stdlib.h": "c",
-        "*.tcc": "c"
+        "*.tcc": "c",
+        "vector": "cpp",
+        "iostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

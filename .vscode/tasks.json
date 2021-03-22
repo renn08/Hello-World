@@ -35,8 +35,8 @@
         "-g",
         "${file}",
         //"C:/Coding/CS106/Library/util/random.h",
-        "-I","C:\\Coding\\CS106\\Library\\util",
-        "C:\\Coding\\CS106\\Library\\util\\random.cpp",
+        //"-I","C:\\Coding\\CS106\\Library\\util",
+        //"C:\\Coding\\CS106\\Library\\util\\random.cpp",
         "-o",
         "${fileDirname}/${fileBasenameNoExtension}.exe"
     ],
